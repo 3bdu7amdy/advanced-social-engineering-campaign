@@ -60,6 +60,18 @@ The complete project report documents the campaign, methodology, practical work,
 
 The `SCREENSHOTS` directory contains visual evidence documenting different stages of the project and the practical demonstration.
 
+### Campaign Setup
+
+![Campaign Setup](SCREENSHOTS/1.png)
+
+### Practical Demonstration
+
+![Practical Demonstration](SCREENSHOTS/2.png)
+
+### Lab Environment
+
+![Lab Environment](SCREENSHOTS/3.png)
+
 ---
 
 ## Campaign Workflow
